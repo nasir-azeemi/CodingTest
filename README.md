@@ -57,7 +57,9 @@ c.  Sort results by similarity (descending)
 d.  Return the top 5 matches
 
 e.  Performance requirements:
+
     -   Must compute a single query in **\< 50ms** on average
+    
     -   Use optimized DP (**O(min(m, n)) space**)
     
 f.  Include at least **3 unit tests**:
