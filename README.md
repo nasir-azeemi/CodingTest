@@ -46,9 +46,7 @@ When a user is clicked, show their details on the right side:
 - Name
 - Email
 - Phone
-- Website
-- Address (street, city)
-- Company name
+
 ---
 ## 3. Favorite a User (⭐)
 - Clicking ⭐ toggles favorite status
